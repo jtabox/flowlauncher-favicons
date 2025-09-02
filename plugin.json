@@ -2,12 +2,12 @@
     "$schema": "https://www.flowlauncher.com/schemas/plugin.schema.json",
     "ID": "4760d363-3898-47bf-8913-379fbeadfd84",
     "ActionKeywords": ["'favi"],
-    "Name": "frustratingly familiar favicon fetcher",
+    "Name": "frustratingly-familiar-favicon-fetcher",
     "Description": "Uses Google's API to fetch favicons for the address entered.",
     "Author": "jtabox",
     "Version": "1.0.0",
     "Language": "python",
     "Website": "https://github.com/jtabox/flowlauncher-favicons",
-    "IcoPath": "images\\app.png",
+    "IcoPath": "images\\01.png",
     "ExecuteFileName": "main.py"
 }
